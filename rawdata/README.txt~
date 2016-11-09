@@ -1,0 +1,48 @@
+The meaning of each column in the raw files is described as follows:
+- SEED or MODEL:
+
+- ITERATION:
+
+- NUMBEROFEVENTS:
+
+- NUMBEROFEDGES:
+
+- CPP_TIME:
+
+- ETA_TIME:
+
+- ETAP_TIME:
+
+- GETA_TIME:
+
+- GETAP_TIME:
+
+- CPP_CES:
+
+- ETA_CES:
+
+- ETAP_CES:
+
+- GETA_CES:
+
+- GETAP_CES:
+
+- CPP_TOTALEVENTS:
+
+- ETA_TOTALEVENTS:
+
+- ETAP_TOTALEVENTS:
+
+- GETA_TOTALEVENTS:
+
+- GETAP_TOTALEVENTS:
+
+- CPP_AVGTCLEN:
+
+- ETA_AVGTCLEN:
+
+- ETAP_AVGTCLEN:
+
+- GETA_AVGTCLEN:
+
+- GETAP_AVGTCLEN:
